@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DragDropBetweenDataGridViews">
+</Property><Property Name="解决方案文件" Value="C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\DragDropBetweenDataGridViews.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\DragDropBetweenDataGridViews.suo">
+</Property><Property Name="Date" Value="2013年6月20日">
+</Property><Property Name="Time" Value="22:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DragDropBetweenDataGridViews.sln" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DragDropBetweenDataGridViews.suo" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews.suo">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\DragDropBetweenDataGridViews.csproj" Description="项目文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\DragDropBetweenDataGridViews.csproj">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\MainForm.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\MainForm.Designer.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Program.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Program.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\MainForm.resx" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\liyafei\Desktop\Sample_DragDropDataGridViews\Sample_DragDropDataGridViews\Backup\DragDropBetweenDataGridViews\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\DragDropBetweenDataGridViews.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\DragDropBetweenDataGridViews.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DragDropBetweenDataGridViews.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DragDropBetweenDataGridViews.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DragDropBetweenDataGridViews" Source="DragDropBetweenDataGridViews\DragDropBetweenDataGridViews.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
